@@ -1,0 +1,5 @@
+manage.py: line 2: Django's command-line utility for administrative tasks.: command not found
+import-im6.q16: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+import-im6.q16: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+manage.py: line 7: syntax error near unexpected token `('
+manage.py: line 7: `def main():'
