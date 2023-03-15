@@ -9,6 +9,7 @@
 * [PostgreSQL](https://www.postgresql.org/)
 * [React.js](https://reactjs.org/)
 * [React Hooks](https://reactjs.org/docs/hooks-overview.html)
+* [hubSpot] (https://www.hubspot.com/)
 
 
 ## Run on local machine
